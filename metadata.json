@@ -1,0 +1,7 @@
+{
+  "name": "HRPulse - Cloud HRIS & Payroll",
+  "description": "A comprehensive, web-based HRIS and Payroll application featuring employee management, attendance tracking with geolocation, payroll processing, and AI-driven HR analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
